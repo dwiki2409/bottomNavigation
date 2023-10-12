@@ -6,6 +6,6 @@ MyTelkomsel
 
 # 5 Apps Yang Memakai Bottom Navigation:
 
-By.u
-![screenshot-modul3](https://github.com/mkp-kemal/Tugas-Praktikum-PAM/raw/main/Screenshot.gif)
+Bisatopup
+![screenshot-modul3](https://github.com/mkp-kemal/bottomNavigation/raw/main/Screenshot_20231012_095549.jpg)
 
