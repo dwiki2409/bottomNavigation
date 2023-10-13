@@ -9,16 +9,20 @@ Kelompok:
     <td>1217050098</td>
   </tr>
   <tr>
-    <td>Muhammad Kemal Pasha</td>
-    <td>1217050098</td>
+    <td>Hilmi Ali Salsabila</td>
+    <td>1217050064</td>
+  </tr>
+   <tr>
+    <td>Fiki Aprian</td>
+    <td>1217050058</td>
   </tr>
   <tr>
-    <td>Muhammad Kemal Pasha</td>
-    <td>1217050098</td>
+    <td>Muhammad Dwiki Septianto</td>
+    <td>1217050089</td>
   </tr>
   <tr>
-    <td>Muhammad Kemal Pasha</td>
-    <td>1217050098</td>
+    <td>Fazli Maula Ghifari</td>
+    <td>1217050057</td>
   </tr>
 </table>
 
