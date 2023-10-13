@@ -26,6 +26,8 @@ Kelompok:
   </tr>
 </table>
 
+# Screenshot program Layouting Bottom Navigation:
+   <img src="https://github.com/mkp-kemal/bottomNavigation/raw/main/ss_program.png" height="300">
 
 # 5 Apps Yang Memakai Bottom Navigation:
 
