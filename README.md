@@ -29,18 +29,18 @@ Kelompok:
 
 # 5 Apps Yang Memakai Bottom Navigation:
 
-My Telkomsel
-![](https://github.com/mkp-kemal/bottomNavigation/raw/main/Screenshot_20231012_095549.jpg)
+1. **My Telkomsel**
+   <img src="https://github.com/mkp-kemal/bottomNavigation/raw/main/Screenshot_20231012_095549.jpg" width="200">
 
-Bank Jago
-![](https://github.com/mkp-kemal/bottomNavigation/raw/main/Screenshot_20231012_095602.jpg)
+2. **Bank Jago**
+   <img src="https://github.com/mkp-kemal/bottomNavigation/raw/main/Screenshot_20231012_095602.jpg" width="200">
 
-V380p
-![](https://github.com/mkp-kemal/bottomNavigation/raw/main/Screenshot_20231012_095631.jpg)
+3. **V380p**
+   <img src="https://github.com/mkp-kemal/bottomNavigation/raw/main/Screenshot_20231012_095631.jpg" width="200">
 
-Bisatopup
-![](https://github.com/mkp-kemal/bottomNavigation/blob/main/Screenshot_20231012_095646.jpg)
+4. **Bisatopup**
+   <img src="https://github.com/mkp-kemal/bottomNavigation/raw/main/Screenshot_20231012_095646.jpg" width="200">
 
-sapawarga
-![](https://github.com/mkp-kemal/bottomNavigation/blob/main/Screenshot_20231012_095816.jpg)
+5. **sapawarga**
+   <img src="https://github.com/mkp-kemal/bottomNavigation/raw/main/Screenshot_20231012_095816.jpg" width="200">
 
